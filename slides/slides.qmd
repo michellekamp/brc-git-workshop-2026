@@ -233,20 +233,13 @@ We can send and receive changes from the remote. This is referred to as "pushing
 
 ---
 
-## Key concepts {.sec background-color="#6B4E9B"}
+## How it works {.sec background-color="#6B4E9B"}
 
 ---
 
-## Four key terms
+## Working with a local repository
 
 :::: {.key-terms-grid}
-
-::: {.key-term-card .key-term-repository}
-::: {.key-term-title}
-Repository
-:::
-Your project folder plus its recorded history.
-:::
 
 ::: {.key-term-card .key-term-file-state}
 ::: {.key-term-title}
